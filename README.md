@@ -1,9 +1,6 @@
-````markdown
-# 🌊 Ocean Explorer
+## 🌊 Ocean Explorer
 
 Ocean Explorer is a web-based grid simulator for a probe that navigates a 2D grid, avoiding obstacles and responding to movement commands. The frontend animates the probe’s movements and updates the direction in real-time.
-
----
 
 ## 📦 Features
 
@@ -159,7 +156,5 @@ ocean-explorer/
 ## 📌 License
 
 MIT License
-
----
 
 Open for contributions too, made with 💓 by Prabhu
